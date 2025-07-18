@@ -1,4 +1,4 @@
 # Python-for-Bioinformatics
-Author - Oshaa
+Author - Oshaa Lashari
 <br>
 Python scrips for Bioinformatics - practice
