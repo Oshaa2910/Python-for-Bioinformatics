@@ -4,7 +4,6 @@ Author - Oshaa Lashari
 Python scrips for Bioinformatics - practice
 <br>
 1. Gene Expression Analysis and Visualization Tool
-<br>
 Key Features:
 <br>
 Data overview and basic statistics
