@@ -13,3 +13,7 @@ Handling of missing values
 Identification of top expressed genes
 <br>
 Interactive gene-specific expression visualization
+<br>
+Built with Pandas and Matplotlib
+<br>
+2. Differential Gene Expression Analysis
