@@ -17,4 +17,4 @@ Interactive gene-specific expression visualization
 Built with Pandas and Matplotlib
 <br>
 <br>
-3. Differential Gene Expression Analysis
+2. Differential Gene Expression Analysis
